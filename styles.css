@@ -1,8 +1,4 @@
 h5::after{
-    content:"/mo";
-    color: gray;
-}
-p::after{
-    content:"access";
-    color: red;
+    content: "/mo";
+    color:gray;
 }
